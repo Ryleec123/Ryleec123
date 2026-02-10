@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ryleec123
 - 👀 I’m interested in Learning as much as possible
-- 🌱 I’m currently learning Cybersecurity
-- 💞️ I’m looking to collaborate on apps, games, and anything security related
+- 🌱 I’m currently learning QA testing and automation
+- 💞️ I’m looking to collaborate on apps, games, and anything automation related
 - 📫 How to reach me: Email at Ryleerc123@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to write/record music
